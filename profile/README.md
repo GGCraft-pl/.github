@@ -1,7 +1,8 @@
-## GGCraft.pl 🎮
+## GGCore.pl 🎮
 
 🕵️ Someone is cooking something big 🍳
-
+-> ggcore.pl
+-> dc.ggcore.pl
 
 
 <!--
